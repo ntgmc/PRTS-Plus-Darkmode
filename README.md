@@ -1,6 +1,6 @@
 # PRTS Plus 更好的暗黑模式 (PRTS-Plus-Darkmode)
 
-> 专为 [zoot.plus](https://zoot.plus/) 打造的深度暗黑模式适配脚本。解决原站深色模式~~~巨丑~~~问题。
+> 专为 [zoot.plus](https://zoot.plus/) 打造的深度暗黑模式适配脚本，针对原站不完善的深色模式进行深度优化与视觉增强。
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue) ![Author](https://img.shields.io/badge/Author-一只摆烂的42_%26_Gemini_3_pro-purple)
 
